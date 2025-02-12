@@ -1,0 +1,36 @@
+body{
+    font-family: Helvetica;
+    font-size: 15px;
+}
+
+header{
+    background-color: #d4e4e0;
+}
+
+nav{
+    background-color: #7bc4d6;
+}
+
+main{
+    background-color: #f7d6cd;
+    font-size: 15px;
+}
+
+footer{
+    background-color: #fab19b;
+}
+
+li{
+    display: inline-block;
+    width: 250px;
+}
+
+h1{
+    text-align:center;
+    font-family: Helvetica;
+    color:#632243;
+}
+
+p{
+    line-height: normal;
+}
